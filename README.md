@@ -1,10 +1,9 @@
-# Jogo-Trânsito-3D-
-Jogo feito na matéria de Computação Gráfica. Feito juntamente com Matheus Cabana. Trata-se de um jogo de trânsito , onde temos que ensinar as
-leis de trânsito para crianças.
-  No jogo , o player começa com 1000 pontos que vão se diminuindo a medida com que o player faz infrações, como :
-          - Atropelar pedestres
-          - Bater em outros carros, ou em casas e árvores.
-  O player ganha pontos a medida que recolhe os cadernos de CFC espalhados nas ruas da cidade. O objetivo final é pegar a carteira de motorista que 
-  fica no final da cidade.
-  
-  Jogo em 3D feito na Unity, usando a Linguagem C#.
+# Car-Traffic-Game
+
+Game made during the "Computer Graphics" course given by the Sao Paulo State University (UNESP). Made together with Matheus Cabana. 
+
+This is a traffic game, where we have to teach traffic laws for children. In the game, the player starts with 1000 points that will decrease as the player does infractions, such as: - Run over pedestrians - Hit other cars, or houses and trees. The player gains points as he collects the CFC notebooks scattered on the streets of the city. The ultimate goal is to get the driver's license which is at the end of the city.
+
+3D game made in Unity, using the C# language.
+
+Translated with www.DeepL.com/Translator (free version)
